@@ -1,0 +1,33 @@
+{
+  "name": "hapi-spa-prerender",
+  "version": "1.0.11",
+  "description": "Hapi plugin for prerendering Single Page Application on the fly for SEO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasa8x/hapi-spa-prerender.git"
+  },
+  "keywords": [
+    "seo",
+    "prerender",
+    "spa",
+    "single page application",
+    "vue.js",
+    "angular",
+    "hapi",
+    "react"
+  ],
+  "author": "Nasa Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nasa8x/hapi-spa-prerender/issues"
+  },
+  "homepage": "https://github.com/nasa8x/hapi-spa-prerender#readme",
+  "dependencies": {
+    "mix-utils": "^1.0.17",
+    "request": "^2.83.0"
+  }
+}
